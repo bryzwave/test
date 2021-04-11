@@ -107,5 +107,4 @@ Synchronize Changes:
 
     - git pull
     Downloads bookmark history and incorporates changes 
-// something isn't right down there 
-yep yep 
+
